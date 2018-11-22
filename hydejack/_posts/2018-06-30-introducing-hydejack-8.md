@@ -1,9 +1,8 @@
 ---
-title: Introducing Hydejack 8
+title: Introducing Siobhan
 image: /assets/img/blog/hydejack-8.png
 description: >
-  Hydejack 8 is the best version of Hydejack yet.
-  It introduces Cover Pages, Offline Support, and soon... Dark Mode.
+  Siobhan is the best version of Siobhan as of yet
 ---
 
 After a long wait, Hydejack 8 finally sees the day of its release. It makes Hydejack look more elegant (no more super bold headings) and introduces features that make your site more impressive to first time visitors, while loading faster for repeat visitors.
@@ -40,16 +39,3 @@ The `blog` layout finally catches up to modern design standards and renders a po
 </figure>
 
 
-### Dark Mode 🌗 (coming soon)
-
-In 8.1, buyers of the PRO version will have access to Dark Mode. At your choosing, it will be enabled by default, enabled based on visitors' local time, or flipped on by a switch.
-
-<figure>
-  <video src="/assets/video/dark-mode.mp4" class="border" controls muted autoplay loop><img data-ignore alt="Dark Mode Teaser" src="/assets/img/blog/dark-mode.jpg"/></video>
-  <figcaption>Hydejack switches between light and dark mode fluidly.</figcaption>
-</figure>
-
-
-### Offline Support ⚡️
-
-Version 8 introduces experimental offline support. This allows visitors to navigate your site while offline and continue reading articles when connectivity is lost. It also improves loading times for repeat visitors dramatically.
