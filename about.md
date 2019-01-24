@@ -19,12 +19,6 @@ More things to be written here!
 > Your presence on the web — A [blog], a [portfolio], and a [resume].
 {:.lead}
 
-There are two versions of **Hydejack**: The base version is free, while features that are specific to *professionals* are a payed upgrade.
-
-[**Download Free**][kit]
--- or --
-[**Buy PRO**][buy]
-
 
 ### A Free Blogging Theme
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
